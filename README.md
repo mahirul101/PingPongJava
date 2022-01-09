@@ -1,9 +1,7 @@
-# PingPongJava
+# Ping Pong Game in Java
 This is a Ping Pong game programmed using Java and Eclipse IDE in which a player and a computer agent simulate the game of ping pong. 
 
 ## Description:
-
-In fact, the paddle on the right is controlled by the user's cursor while the one on the right is a computer. The trajectory of the ball could be shown using the toggle button "trace". The difficulty of the game can also be controlled using the sliders "lag" and "tick" which controls the computer's response time and the travel time of the ball, respectively. 
 
 The following is a GIF represeting a short gameplay of the program:
 
@@ -11,7 +9,7 @@ The following is a GIF represeting a short gameplay of the program:
 
 ### Classes:
 
-Here are the 6 classes that were made in order to run this program:
+Here are the 6 java classes (found in this repository) that were made in order to run this program:
 - ppSimParams: This class contains all the constant definitions needed to run the program.
 - ppTable: This class consists of a constructor that sets up the ground plane and converts world coordinates to screen coordiantes and vice-versa.
 - ppPaddle: This class creates a paddle instance and exports methods to interact with the paddle.
