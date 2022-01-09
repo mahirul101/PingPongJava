@@ -10,7 +10,7 @@ import acm.program.GraphicsProgram;
 
 /**
  * This class extends ppPaddle by providing information about the 
- * ball's position in order to math the paddle's Y position with the ball's in
+ * ball's position in order to match the paddle's Y position with the ball's in
  * the run method.
  * Part of this code was taken from Assignment 4 document by Frank P. Ferrie and
  * from Katrina Poulin's tutorial.
