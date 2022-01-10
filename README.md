@@ -26,7 +26,7 @@ ACM Graphics Program is used in this program, therefore, it should be downloaded
 - Quit: Quit the game
 - Trace: Toggle button that lets the user choose whether they want the ball's trajectory or not
 - Lag: Controls the computer's response time (higher response time means more lag, therefore, it's easier to win)
-- Tick: Control the travel time of the ball (higher tick means the ball's movement is laggy, therefore, it's easier to win)
+- Tick: Controls the travel time of the ball (higher tick means the ball's movement is laggy, therefore, it's easier to win)
 
 ## References:
 - This project was made for an Introduction to Software Development class (ECSE 202) at McGill, therefore, part of the code is taken from Prof. Frank Ferrie and the TA Katrina Poulin.
