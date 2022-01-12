@@ -3,7 +3,7 @@ This is a Ping Pong game programmed using Java and Eclipse IDE in which a player
 
 ## Description:
 
-The following is a GIF represeting a short gameplay of the program:
+The following is a GIF representing a short gameplay of the program:
 
 ![](PingPong.gif)
 
